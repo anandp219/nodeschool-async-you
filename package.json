@@ -1,0 +1,7 @@
+{
+  "description": "My solutions for Nodeschool.io's async-you",
+  "repository": "https://github.com/randallagordon/nodeschool-async-you",
+  "dependencies": {
+    "async": "^0.2.10"
+  }
+}
